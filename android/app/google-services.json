@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "944742015061",
+    "project_id": "motor-show-firebase",
+    "storage_bucket": "motor-show-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944742015061:android:b760aac13ea183d29b34dc",
+        "android_client_info": {
+          "package_name": "com.example.motor_show"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDSATN6QsZwJFYD20rv7LDm3CmmjCeoXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
